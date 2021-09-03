@@ -1,0 +1,11 @@
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.deps.json
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.dll
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\bin\Debug\net5.0\ref\DesignPatterns.dll
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.pdb
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfoInputs.cache
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfo.cs
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
+E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb

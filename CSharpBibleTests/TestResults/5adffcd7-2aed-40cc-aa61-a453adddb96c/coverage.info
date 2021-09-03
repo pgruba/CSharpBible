@@ -1,0 +1,41 @@
+SF:I:\src\Sources\netcore\CSharpBible\DesignPatterns\Creational\Builder\BuilderDP\SimpleBuilder\SimpleBuilder.cs
+FN:20,System.String BuilderDP.SimpleBuilder.HtmlElement::ToString()
+FNDA:6,System.String BuilderDP.SimpleBuilder.HtmlElement::ToString()
+DA:21,6
+DA:22,10
+DA:23,6
+FN:10,System.Void BuilderDP.SimpleBuilder.HtmlElement::.ctor()
+FNDA:3,System.Void BuilderDP.SimpleBuilder.HtmlElement::.ctor()
+DA:11,3
+DA:13,3
+FN:13,System.Void BuilderDP.SimpleBuilder.HtmlElement::.ctor(System.String,System.String)
+FNDA:2,System.Void BuilderDP.SimpleBuilder.HtmlElement::.ctor(System.String,System.String)
+DA:14,2
+DA:15,2
+DA:16,2
+DA:17,2
+DA:18,2
+FN:37,System.Void BuilderDP.SimpleBuilder.HtmlBuilder::AddChild(System.String,System.String)
+FNDA:2,System.Void BuilderDP.SimpleBuilder.HtmlBuilder::AddChild(System.String,System.String)
+DA:38,2
+DA:39,2
+DA:40,2
+DA:41,2
+FN:42,System.String BuilderDP.SimpleBuilder.HtmlBuilder::ToString()
+FNDA:2,System.String BuilderDP.SimpleBuilder.HtmlBuilder::ToString()
+DA:43,2
+FN:28,System.Void BuilderDP.SimpleBuilder.HtmlBuilder::.ctor(System.String)
+FNDA:1,System.Void BuilderDP.SimpleBuilder.HtmlBuilder::.ctor(System.String)
+DA:29,1
+DA:31,1
+DA:32,1
+DA:33,1
+DA:34,1
+DA:35,1
+LF:21
+LH:21
+BRF:0
+BRH:0
+FNF:6
+FNH:6
+end_of_record

@@ -1,0 +1,13 @@
+﻿https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
+
+1. Tupples
+2. Pattern matching
+3. Async Main method to allow consume async/await instead of DoAsync().GetAwaiter().GetResult();
+4. Local Functions - from 7.0 we can declare local function (inside methods) including async 
+5. Expression bodied members (can be use for constructor, destructor and in properties as get or set)
+6. Throw expression - throw is now expression so we can use with conditional operators, null coalescing operators etc
+7. Default literal expressions:
+	Insted of writing this:
+		Func<string, bool> whereClause = default(Func<string, bool>);
+	now we can write it like below:
+		Func<string, bool> whereClause = default;

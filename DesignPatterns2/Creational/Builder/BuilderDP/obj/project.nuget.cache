@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wm2JVOXGwcp5UPgSxKazXm1RDlYzP1i0umuUyF0vm6vl/ZDrylTLmUOhCsMoR7rybgXgYVohBFEF8o05xvB9qA==",
+  "success": true,
+  "projectFilePath": "E:\\src\\Sources\\netcore\\CSharpBible\\DesignPatterns2\\Creational\\Builder\\BuilderDP\\BuilderDP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\localtempadmin\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
