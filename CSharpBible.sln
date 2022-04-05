@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "CSharpBibleTests\Test.csproj", "{410EEFC8-30C6-4BCC-A968-F1180BEB4CA1}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{F4710B85-5B29-43F3-BB1B-09BDCDB4DC15}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{FDAE39F5-C8E0-4174-B1D4-E1A4AE21278E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{644840D1-DFED-4C77-8CCD-FFFFC53DD5E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{F4710B85-5B29-43F3-BB1B-09BDCDB4DC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4710B85-5B29-43F3-BB1B-09BDCDB4DC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4710B85-5B29-43F3-BB1B-09BDCDB4DC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644840D1-DFED-4C77-8CCD-FFFFC53DD5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644840D1-DFED-4C77-8CCD-FFFFC53DD5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644840D1-DFED-4C77-8CCD-FFFFC53DD5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644840D1-DFED-4C77-8CCD-FFFFC53DD5E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

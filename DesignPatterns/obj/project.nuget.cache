@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9fIBWsgebKDtX51LCrgOZdVrCwPVp8sV3u07uZtdfuvucNU8TwbldUIODOnxRjL5/VYY7womeSdYaKJCtBRzw==",
+  "dgSpecHash": "/IB9YgRTSUlxHp7aTOztisVuGLEy+uhWe9h2YygS0b908JI7pbK/Yfp5POGcyql8+QrDATIBn2t9h/rpm6kKqw==",
   "success": true,
-  "projectFilePath": "E:\\src\\Sources\\netcore\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj",
+  "projectFilePath": "D:\\sources\\prv\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

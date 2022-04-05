@@ -25,3 +25,13 @@ E:\src\Sources\netcore\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\N
 E:\src\Sources\netcore\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.csproj.CoreCompileInputs.cache
 E:\src\Sources\netcore\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.dll
 E:\src\Sources\netcore\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.pdb
+D:\sources\prv\CSharpBible\NewFeaturesExamples\bin\Debug\netcoreapp3.1\NewFeaturesExamples.deps.json
+D:\sources\prv\CSharpBible\NewFeaturesExamples\bin\Debug\netcoreapp3.1\NewFeaturesExamples.dll
+D:\sources\prv\CSharpBible\NewFeaturesExamples\bin\Debug\netcoreapp3.1\NewFeaturesExamples.pdb
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.csproj.AssemblyReference.cache
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.AssemblyInfoInputs.cache
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.AssemblyInfo.cs
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.csproj.CoreCompileInputs.cache
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.dll
+D:\sources\prv\CSharpBible\NewFeaturesExamples\obj\Debug\netcoreapp3.1\NewFeaturesExamples.pdb

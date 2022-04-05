@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Basics\Basics.csproj" />
     <ProjectReference Include="..\DesignPatterns\DesignPatterns.csproj" />
     <ProjectReference Include="..\NewFeaturesExamples\NewFeaturesExamples.csproj" />
   </ItemGroup>

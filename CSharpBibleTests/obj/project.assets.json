@@ -1652,6 +1652,16 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Basics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Basics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Basics.dll": {}
+        }
+      },
       "DesignPatterns/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -5660,6 +5670,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "Basics/1.0.0": {
+      "type": "project",
+      "path": "../Basics/Basics.csproj",
+      "msbuildProject": "../Basics/Basics.csproj"
+    },
     "DesignPatterns/1.0.0": {
       "type": "project",
       "path": "../DesignPatterns/DesignPatterns.csproj",
@@ -5673,6 +5688,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Basics >= 1.0.0",
       "DesignPatterns >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "NewFeaturesExamples >= 1.0.0",
@@ -5683,19 +5699,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\localtempadmin\\.nuget\\packages\\": {}
+    "C:\\Users\\pawel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\src\\Sources\\netcore\\CSharpBible\\CSharpBibleTests\\Test.csproj",
+      "projectUniqueName": "D:\\sources\\prv\\CSharpBible\\CSharpBibleTests\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\src\\Sources\\netcore\\CSharpBible\\CSharpBibleTests\\Test.csproj",
-      "packagesPath": "C:\\Users\\localtempadmin\\.nuget\\packages\\",
-      "outputPath": "E:\\src\\Sources\\netcore\\CSharpBible\\CSharpBibleTests\\obj\\",
+      "projectPath": "D:\\sources\\prv\\CSharpBible\\CSharpBibleTests\\Test.csproj",
+      "packagesPath": "C:\\Users\\pawel\\.nuget\\packages\\",
+      "outputPath": "D:\\sources\\prv\\CSharpBible\\CSharpBibleTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\localtempadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pawel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5703,19 +5719,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/dynamicweb-packages/api/v3/index.json": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\src\\Sources\\netcore\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj": {
-              "projectPath": "E:\\src\\Sources\\netcore\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj"
+            "D:\\sources\\prv\\CSharpBible\\Basics\\Basics.csproj": {
+              "projectPath": "D:\\sources\\prv\\CSharpBible\\Basics\\Basics.csproj"
             },
-            "E:\\src\\Sources\\netcore\\CSharpBible\\NewFeaturesExamples\\NewFeaturesExamples.csproj": {
-              "projectPath": "E:\\src\\Sources\\netcore\\CSharpBible\\NewFeaturesExamples\\NewFeaturesExamples.csproj"
+            "D:\\sources\\prv\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj": {
+              "projectPath": "D:\\sources\\prv\\CSharpBible\\DesignPatterns\\DesignPatterns.csproj"
+            },
+            "D:\\sources\\prv\\CSharpBible\\NewFeaturesExamples\\NewFeaturesExamples.csproj": {
+              "projectPath": "D:\\sources\\prv\\CSharpBible\\NewFeaturesExamples\\NewFeaturesExamples.csproj"
             }
           }
         }
@@ -5772,7 +5789,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

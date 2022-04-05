@@ -1,0 +1,12 @@
+D:\sources\prv\CSharpBible\Basics\bin\Debug\net5.0\Basics.deps.json
+D:\sources\prv\CSharpBible\Basics\bin\Debug\net5.0\Basics.dll
+D:\sources\prv\CSharpBible\Basics\bin\Debug\net5.0\Basics.pdb
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.csproj.AssemblyReference.cache
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.dll
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\refint\Basics.dll
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\Basics.pdb
+D:\sources\prv\CSharpBible\Basics\obj\Debug\net5.0\ref\Basics.dll

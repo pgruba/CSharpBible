@@ -9,3 +9,15 @@ E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPattern
 E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
 E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
 E:\src\Sources\netcore\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
+D:\sources\prv\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.deps.json
+D:\sources\prv\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.dll
+D:\sources\prv\CSharpBible\DesignPatterns\bin\Debug\net5.0\DesignPatterns.pdb
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.AssemblyReference.cache
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfo.cs
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\refint\DesignPatterns.dll
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
+D:\sources\prv\CSharpBible\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
